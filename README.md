@@ -29,7 +29,7 @@ The repository currently includes the following scripts:
 ## References
 All the projects in this repository are based and were used to develope cutting-edge research in the field of applied mathematics, physics, complex systems and information theory. The main references are
 
-[Voter model on heterogeneous directed networks]([url](https://arxiv.org/abs/2506.12169)) by Luca Avena, Federico Capannoli, Diego Garlaschelli and Rajat Subhra Hazra.
+[Voter model on heterogeneous directed networks](https://arxiv.org/abs/2506.12169) by Luca Avena, Federico Capannoli, Diego Garlaschelli and Rajat Subhra Hazra.
 
 [Meeting, coalescence and consensus time on random directed graphs](https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-5/Meeting-coalescence-and-consensus-time-on-random-directed-graphs/10.1214/24-AAP2087.short) by Luca Avena, Federico Capannoli, Rajat Subhra Hazra and Matteo Quattropani.
 
