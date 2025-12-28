@@ -11,7 +11,7 @@ The code is intended for **academic / educational use**, especially for students
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The repository currently includes the following scripts:
 
