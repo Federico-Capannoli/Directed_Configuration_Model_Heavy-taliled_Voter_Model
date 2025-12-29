@@ -1,4 +1,4 @@
-# Heavy-Tailed Voter Model on Directed Networks
+# Voter Model on Heavy-Tailed Directed Networks
 
 This repository contains Python simulations of **opinion dynamics and consensus formation** on **directed networks** with **heavy-tailed degree distributions**.  
 The project explores how network topology (in particular, heavy-tailed in- and out-degree distributions) affects consensus time and opinion evolution.
